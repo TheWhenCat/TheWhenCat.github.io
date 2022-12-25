@@ -1,5 +1,5 @@
 {
-  "title": "Blog by John Doe",
+  "title": "Blog by Dhruva Venkat",
   "url": "https://lumen.alxshelepenok.com",
   "subtitle": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
   "copyright": "© All rights reserved.",
@@ -13,6 +13,10 @@
       "path": "/"
     },
     {
+      "label": "Categories",
+      "path": "/categories"
+    },
+    {
       "label": "About me",
       "path": "/pages/about"
     },
@@ -22,19 +26,19 @@
     }
   ],
   "author": {
-    "name": "John Doe",
+    "name": "Dhruva Venkat",
     "photo": "/photo.jpg",
-    "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "bio": "Math and Aerospace major looking to pursue a PhD in the near future!",
     "contacts": {
-      "rss": "",
-      "email": "",
-      "github": "#",
-      "facebook": "#",
-      "telegram": "#",
-      "twitter": "#",
-      "linkedin": "#",
-      "instagram": "#",
+      "email": "dvenkat3@gatech.edu",
+      "github": "TheWhenCat",
+      "linkedin": "dhruva735",
       "mastodon": "#",
+      "rss": "",
+      "facebook": "",
+      "telegram": "",
+      "twitter": "",
+      "instagram": "",      
       "line": "",
       "weibo": "",
       "gitlab": "",

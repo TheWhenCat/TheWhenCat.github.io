@@ -9,6 +9,9 @@ import { Sidebar } from "@/components/Sidebar";
 import { useSiteMetadata } from "@/hooks";
 import { Node } from "@/types";
 
+require(`katex/dist/katex.min.css`)
+import "katex/dist/katex.min.css"
+
 interface Props {
   data: {
     markdownRemark: Node;
